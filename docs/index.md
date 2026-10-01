@@ -24,6 +24,19 @@ features:
 
 **First edition · In progress**
 
-This preview contains one complete sample chapter. Implementation, visual checks, behavior testing, and delivery chapters will follow after the format is reviewed.
+Six practical chapters cover the path from receiving a task to delivery. Fill in each prompt with your project context; project rules take precedence over the examples in this handbook.
 
 </div>
+
+## Reading path
+
+| Stage | Outcome |
+| --- | --- |
+| [01 · Understand and split the task](/guide/task-scope) | Clear scope and a reviewable plan |
+| [02 · Implement one stage](/guide/implementation) | A runnable section with preserved behavior |
+| [03 · Compare and refine visuals](/guide/visual-review) | Identified and resolved differences |
+| [04 · Test behavior and review code](/guide/testing) | Test evidence and a reviewed diff |
+| [05 · Commit and deliver](/guide/delivery) | Focused commits and a review request |
+| [06 · Debug and resume work](/guide/continuity) | A fix or handoff without repeated work |
+
+Start with chapter one. Complete the prompt, review the output, and advance only when the exit criteria are met.

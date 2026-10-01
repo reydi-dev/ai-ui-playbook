@@ -31,4 +31,4 @@ Keep equivalent page paths in both languages so the language switch preserves th
 
 مسیر فصل‌های دو زبان را یکسان نگه دارید تا سوییچ زبان همان فصل را باز کند. مثال‌ها باید ساختگی و بدون اطلاعات خصوصی باشند.
 
-This initial preview includes one sample chapter. Deployment and content licensing are not configured yet.
+This initial edition includes six paired chapters covering scope, implementation, visual review, testing, delivery, and continuity. Deployment and content licensing are not configured yet.
