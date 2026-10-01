@@ -70,11 +70,11 @@ A useful question contains **the conflict, its impact, and a proposed option**:
 
 ## Ready to implement
 
-- [ ] The scope and exclusions are clear.
-- [ ] Relevant frames are identified and accessible.
-- [ ] Questions affecting the next stage have been answered.
-- [ ] Each stage has visual and behavioral review criteria.
-- [ ] A separate task branch exists.
+- The scope and exclusions are clear.
+- Relevant frames are identified and accessible.
+- Questions affecting the next stage have been answered.
+- Each stage has visual and behavioral review criteria.
+- A separate task branch exists.
 
 Assign only **the first stage** to the agent after this review. Review and approve each section, then make a separate commit with a clear Persian message. Prepare the merge request when the full task is complete.
 
