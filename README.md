@@ -4,6 +4,8 @@ A bilingual English–Persian handbook for AI-assisted UI development, from unde
 
 راهنمای فارسی و انگلیسی توسعه رابط کاربری با ایجنت هوش مصنوعی؛ با پرامپت‌های آماده و مراحل قابل بررسی.
 
+Built with support from [DevPact Team](https://github.com/devpactteam).
+
 ## Local development / اجرای محلی
 
 Use Node.js 22 LTS.

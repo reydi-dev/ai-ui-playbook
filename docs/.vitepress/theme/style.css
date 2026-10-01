@@ -24,6 +24,7 @@
 .vp-doc h1 { line-height: 1.7; }
 .vp-doc h2 { line-height: 1.8; }
 [dir="rtl"] .VPHero .name, [dir="rtl"] .VPHero .text { letter-spacing: 0; line-height: 1.65; }
+[dir="rtl"] .VPNavBarTitle .logo { margin-right: 0; margin-left: 8px; }
 [dir="rtl"] .vp-doc ul, [dir="rtl"] .vp-doc ol { padding-left: 0; padding-right: 1.5rem; }
 [dir="rtl"] .vp-doc [class*="language-"] { direction: rtl; text-align: right; }
 [dir="rtl"] .vp-doc [class*="language-"] code { font-family: var(--vp-font-family-base); }
