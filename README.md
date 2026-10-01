@@ -31,4 +31,15 @@ Keep equivalent page paths in both languages so the language switch preserves th
 
 مسیر فصل‌های دو زبان را یکسان نگه دارید تا سوییچ زبان همان فصل را باز کند. مثال‌ها باید ساختگی و بدون اطلاعات خصوصی باشند.
 
-This initial edition includes six paired chapters covering scope, implementation, visual review, testing, delivery, and continuity. Deployment and content licensing are not configured yet.
+This initial edition includes six paired chapters covering scope, implementation, visual review, testing, delivery, and continuity. GitHub Pages deploys automatically after pushes to main. Content licensing has not been selected yet.
+
+## Published site / نسخه آنلاین
+
+- [English](https://reydi-dev.github.io/ai-ui-playbook/)
+- [فارسی](https://reydi-dev.github.io/ai-ui-playbook/fa/)
+
+In repository Settings > Pages, select GitHub Actions as the source.
+The deploy workflow builds the site and publishes it after each push to main.
+Check the Actions tab for deployment results. Generated output is not committed.
+
+با ورود تغییرات به main، سایت خودکار ساخته و منتشر می‌شود. نتیجه انتشار در تب Actions قابل مشاهده است.
